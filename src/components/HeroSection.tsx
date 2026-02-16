@@ -25,7 +25,7 @@ const HeroSection = () => {
             🔥🔥🔥 สูตรลับความอร่อย🔥🔥🔥
           </span>
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-primary-foreground mb-6 leading-tight">
-            ไส้กรอกพรีเมียมพลัส
+            ไส้กรอกเนื้อแมวพรีเมียมพลัส
             <br />
             <span className="text-accent">รสชาติที่คุณต้องลอง</span>
           </h1>
