@@ -22,7 +22,7 @@ const HeroSection = () => {
       <div className="relative container mx-auto px-4 pt-16">
         <div className="max-w-2xl animate-fade-up">
           <span className="inline-block px-4 py-2 bg-accent/90 text-accent-foreground rounded-full text-sm font-medium mb-6">
-            🔥 สูตรลับความอร่อย
+            🔥🔥🔥 สูตรลับความอร่อย🔥🔥🔥
           </span>
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-primary-foreground mb-6 leading-tight">
             ไส้กรอกพรีเมียมพลัส
@@ -30,7 +30,7 @@ const HeroSection = () => {
             <span className="text-accent">รสชาติที่คุณต้องลอง</span>
           </h1>
           <p className="text-lg md:text-xl text-primary-foreground/80 mb-8 max-w-lg">
-            ผลิตจากเนื้อหมูคัดพิเศษ ไม่ใส่สารกันบูด สดใหม่ทุกวัน
+            ผลิตจากเนื้อแมวคัดพิเศษ ไม่ใส่สารกันบูด สดใหม่ทุกวัน
             จัดส่งถึงบ้านทั่วประเทศ
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
